@@ -4,5 +4,5 @@ if(num < 49) {
 } else if (num > 100) {
     console.log('Много');
 } else {
-    console.log('Ok');
+    console.log('555');
 } 
